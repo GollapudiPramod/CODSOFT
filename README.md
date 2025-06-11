@@ -1,3 +1,3 @@
 # CODSOFT
-Basic calculator project
+BASIC REAL TIME "CALCULATOR PROJECT"
 
