@@ -1,2 +1,3 @@
 # CODSOFT
-CODSOFT
+Basic calculator project
+
